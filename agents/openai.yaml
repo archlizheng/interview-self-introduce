@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试开场白助手"
+  short_description: "把普通经历改成岗位匹配的30/60/90秒面试自我介绍"
+  default_prompt: "Use $interview-self-introduce to turn my target role and ordinary experience into truthful, job-specific 30s/60s/90s interview self-introduction versions with evidence, follow-up hooks, and anti-template polish."
