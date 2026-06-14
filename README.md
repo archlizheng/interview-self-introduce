@@ -146,4 +146,4 @@ language: zh-CN | en | bilingual
 
 ## License
 
-当前仓库暂未附带开源许可证。如需对外复用、分发或二次开发，建议先补充明确的 LICENSE 文件。
+本项目采用 [MIT License](LICENSE) 开源。
